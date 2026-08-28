@@ -4,9 +4,9 @@
 - **Difficulty:** Easy
 - **Language:** Java
 - **Status:** Accepted
-- **Submission ID:** 1862564008
-- **Runtime:** 1
-- **Memory:** 46720000
+- **Submission ID:** 2122815759
+- **Runtime:** 0 ms
+- **Memory:** 46604000
 - **Tags:** Array, Two Pointers
 
 ## Problem
