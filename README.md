@@ -7,3 +7,4 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 26 | Remove Duplicates from Sorted Array | Easy | Java | [Solution](./LC-26/) |
+| 121 | Best Time to Buy and Sell Stock | Easy | Java | [Solution](./LC-121/) |
