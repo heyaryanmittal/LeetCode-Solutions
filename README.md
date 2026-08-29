@@ -12,3 +12,4 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 136 | Single Number | Easy | Java | [Solution](./LC-136/) |
 | 189 | Rotate Array | Medium | Java | [Solution](./LC-189/) |
 | 217 | Contains Duplicate | Easy | Java | [Solution](./LC-217/) |
+| 349 | Intersection of Two Arrays | Easy | Java | [Solution](./LC-349/) |
