@@ -13,3 +13,4 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 189 | Rotate Array | Medium | Java | [Solution](./LC-189/) |
 | 217 | Contains Duplicate | Easy | Java | [Solution](./LC-217/) |
 | 349 | Intersection of Two Arrays | Easy | Java | [Solution](./LC-349/) |
+| 350 | Intersection of Two Arrays II | Easy | Java | [Solution](./LC-350/) |
