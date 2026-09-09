@@ -19,3 +19,4 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 283 | Move Zeroes | Easy | Java | [Solution](./LC-283/) |
 | 349 | Intersection of Two Arrays | Easy | Java | [Solution](./LC-349/) |
 | 350 | Intersection of Two Arrays II | Easy | Java | [Solution](./LC-350/) |
+| 485 | Max Consecutive Ones | Easy | Java | [Solution](./LC-485/) |
