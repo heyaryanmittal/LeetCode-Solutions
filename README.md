@@ -9,6 +9,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 1 | Two Sum | Easy | Java | [Solution](./LC-1/) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Java | [Solution](./LC-26/) |
 | 36 | Valid Sudoku | Medium | Java | [Solution](./LC-36/) |
+| 48 | Rotate Image | Medium | Java | [Solution](./LC-48/) |
 | 66 | Plus One | Easy | Java | [Solution](./LC-66/) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Java | [Solution](./LC-121/) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Java | [Solution](./LC-122/) |
