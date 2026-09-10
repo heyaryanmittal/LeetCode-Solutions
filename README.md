@@ -25,3 +25,4 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 977 | Squares of a Sorted Array | Easy | Java | [Solution](./LC-977/) |
 | 1089 | Duplicate Zeros | Easy | Java | [Solution](./LC-1089/) |
 | 1295 | Find Numbers with Even Number of Digits | Easy | Java | [Solution](./LC-1295/) |
+| 1346 | Check If N and Its Double Exist | Easy | Java | [Solution](./LC-1346/) |
