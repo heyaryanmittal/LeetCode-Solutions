@@ -22,6 +22,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 349 | Intersection of Two Arrays | Easy | Java | [Solution](./LC-349/) |
 | 350 | Intersection of Two Arrays II | Easy | Java | [Solution](./LC-350/) |
 | 485 | Max Consecutive Ones | Easy | Java | [Solution](./LC-485/) |
+| 724 | Find Pivot Index | Easy | Java | [Solution](./LC-724/) |
 | 905 | Sort Array By Parity | Easy | Java | [Solution](./LC-905/) |
 | 941 | Valid Mountain Array | Easy | Java | [Solution](./LC-941/) |
 | 977 | Squares of a Sorted Array | Easy | Java | [Solution](./LC-977/) |
