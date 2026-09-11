@@ -7,6 +7,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 1 | Two Sum | Easy | Java | [Solution](./LC-1/) |
+| 7 | Reverse Integer | Medium | Java | [Solution](./LC-7/) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Java | [Solution](./LC-26/) |
 | 27 | Remove Element | Easy | Java | [Solution](./LC-27/) |
 | 36 | Valid Sudoku | Medium | Java | [Solution](./LC-36/) |
