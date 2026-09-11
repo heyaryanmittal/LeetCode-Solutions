@@ -25,6 +25,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 905 | Sort Array By Parity | Easy | Java | [Solution](./LC-905/) |
 | 941 | Valid Mountain Array | Easy | Java | [Solution](./LC-941/) |
 | 977 | Squares of a Sorted Array | Easy | Java | [Solution](./LC-977/) |
+| 1051 | Height Checker | Easy | Java | [Solution](./LC-1051/) |
 | 1089 | Duplicate Zeros | Easy | Java | [Solution](./LC-1089/) |
 | 1295 | Find Numbers with Even Number of Digits | Easy | Java | [Solution](./LC-1295/) |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | Java | [Solution](./LC-1299/) |
