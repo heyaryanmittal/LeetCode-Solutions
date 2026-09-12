@@ -10,6 +10,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 7 | Reverse Integer | Medium | Java | [Solution](./LC-7/) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Java | [Solution](./LC-26/) |
 | 27 | Remove Element | Easy | Java | [Solution](./LC-27/) |
+| 28 | Find the Index of the First Occurrence in a String | Easy | Java | [Solution](./LC-28/) |
 | 36 | Valid Sudoku | Medium | Java | [Solution](./LC-36/) |
 | 48 | Rotate Image | Medium | Java | [Solution](./LC-48/) |
 | 66 | Plus One | Easy | Java | [Solution](./LC-66/) |
