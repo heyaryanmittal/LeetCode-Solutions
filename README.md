@@ -20,6 +20,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 136 | Single Number | Easy | Java | [Solution](./LC-136/) |
 | 189 | Rotate Array | Medium | Java | [Solution](./LC-189/) |
 | 217 | Contains Duplicate | Easy | Java | [Solution](./LC-217/) |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium | Java | [Solution](./LC-236/) |
 | 283 | Move Zeroes | Easy | Java | [Solution](./LC-283/) |
 | 349 | Intersection of Two Arrays | Easy | Java | [Solution](./LC-349/) |
 | 350 | Intersection of Two Arrays II | Easy | Java | [Solution](./LC-350/) |
