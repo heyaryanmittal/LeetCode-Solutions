@@ -12,6 +12,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 27 | Remove Element | Easy | Java | [Solution](./LC-27/) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Java | [Solution](./LC-28/) |
 | 36 | Valid Sudoku | Medium | Java | [Solution](./LC-36/) |
+| 42 | Trapping Rain Water | Hard | Java | [Solution](./LC-42/) |
 | 48 | Rotate Image | Medium | Java | [Solution](./LC-48/) |
 | 66 | Plus One | Easy | Java | [Solution](./LC-66/) |
 | 88 | Merge Sorted Array | Easy | Java | [Solution](./LC-88/) |
