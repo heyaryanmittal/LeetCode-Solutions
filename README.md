@@ -16,6 +16,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 48 | Rotate Image | Medium | Java | [Solution](./LC-48/) |
 | 66 | Plus One | Easy | Java | [Solution](./LC-66/) |
 | 88 | Merge Sorted Array | Easy | Java | [Solution](./LC-88/) |
+| 104 | Maximum Depth of Binary Tree | Easy | Java | [Solution](./LC-104/) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Java | [Solution](./LC-121/) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Java | [Solution](./LC-122/) |
 | 136 | Single Number | Easy | Java | [Solution](./LC-136/) |
