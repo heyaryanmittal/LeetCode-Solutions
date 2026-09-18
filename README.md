@@ -21,6 +21,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 122 | Best Time to Buy and Sell Stock II | Medium | Java | [Solution](./LC-122/) |
 | 136 | Single Number | Easy | Java | [Solution](./LC-136/) |
 | 189 | Rotate Array | Medium | Java | [Solution](./LC-189/) |
+| 190 | Reverse Bits | Easy | Java | [Solution](./LC-190/) |
 | 198 | House Robber | Medium | Java | [Solution](./LC-198/) |
 | 217 | Contains Duplicate | Easy | Java | [Solution](./LC-217/) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | Java | [Solution](./LC-236/) |
