@@ -8,6 +8,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 |---:|---|---|---|---|
 | 1 | Two Sum | Easy | Java | [Solution](./LC-1/) |
 | 7 | Reverse Integer | Medium | Java | [Solution](./LC-7/) |
+| 11 | Container With Most Water | Medium | Java | [Solution](./LC-11/) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Java | [Solution](./LC-26/) |
 | 27 | Remove Element | Easy | Java | [Solution](./LC-27/) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Java | [Solution](./LC-28/) |
