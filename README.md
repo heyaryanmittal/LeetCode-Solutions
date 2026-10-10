@@ -24,6 +24,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 189 | Rotate Array | Medium | Java | [Solution](./LC-189/) |
 | 190 | Reverse Bits | Easy | Java | [Solution](./LC-190/) |
 | 198 | House Robber | Medium | Java | [Solution](./LC-198/) |
+| 204 | Count Primes | Medium | Java | [Solution](./LC-204/) |
 | 217 | Contains Duplicate | Easy | Java | [Solution](./LC-217/) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | Java | [Solution](./LC-236/) |
 | 283 | Move Zeroes | Easy | Java | [Solution](./LC-283/) |
