@@ -15,6 +15,7 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 36 | Valid Sudoku | Medium | Java | [Solution](./LC-36/) |
 | 42 | Trapping Rain Water | Hard | Java | [Solution](./LC-42/) |
 | 48 | Rotate Image | Medium | Java | [Solution](./LC-48/) |
+| 51 | N-Queens | Hard | Java | [Solution](./LC-51/) |
 | 66 | Plus One | Easy | Java | [Solution](./LC-66/) |
 | 88 | Merge Sorted Array | Easy | Java | [Solution](./LC-88/) |
 | 104 | Maximum Depth of Binary Tree | Easy | Java | [Solution](./LC-104/) |
