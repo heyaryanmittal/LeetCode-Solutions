@@ -43,3 +43,4 @@ Automatically maintained by **LeetCode GitHub Pusher**.
 | 1295 | Find Numbers with Even Number of Digits | Easy | Java | [Solution](./LC-1295/) |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | Java | [Solution](./LC-1299/) |
 | 1346 | Check If N and Its Double Exist | Easy | Java | [Solution](./LC-1346/) |
+| 2235 | Add Two Integers | Easy | Java | [Solution](./LC-2235/) |
